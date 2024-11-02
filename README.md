@@ -1,1 +1,1 @@
-# CodSoft_Task1_NumberGame
+# CodSoft_AllTask_Java
